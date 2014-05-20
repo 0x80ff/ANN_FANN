@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Train_Network" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Train_Network" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Train_Network" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="compat_time.h" />
+		<Unit filename="config.h" />
+		<Unit filename="dat.data" />
+		<Unit filename="doublefann.h" />
+		<Unit filename="fann.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="fann.h" />
+		<Unit filename="fann_activation.h" />
+		<Unit filename="fann_cascade.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="fann_cascade.h" />
+		<Unit filename="fann_cpp.h" />
+		<Unit filename="fann_data.h" />
+		<Unit filename="fann_error.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="fann_error.h" />
+		<Unit filename="fann_internal.h" />
+		<Unit filename="fann_io.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="fann_io.h" />
+		<Unit filename="fann_train.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="fann_train.h" />
+		<Unit filename="fann_train_data.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="fixedfann.h" />
+		<Unit filename="floatfann.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
