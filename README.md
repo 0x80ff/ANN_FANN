@@ -19,7 +19,7 @@ After seeing Brittany Wenger , 17, Wins Google Science Fair Grand Prize For Brea
 ####How to use it?
 
 First , compile the training program of the network, it will be fed with the data contained in the file dat.data previously formatted syntactically .
-Then , compile the test program. But in the code, you must notify the test data . It is for this reason that I added a testingpool.data file containing data with which the network has never seen .
+Then , compile the test program. But in the code, you must notify the test data . It is for this reason that I added a testingpool.data file containing data that the network has never seen .
 
 In this way, the behavior of the network with unknown data can be observed .
 
