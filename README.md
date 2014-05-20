@@ -2,4 +2,4 @@ ANN_FANN
 ========
 ## Artificial Neural Network for Breast Cancer Detection
 
-![alt tag](https://www.dropbox.com/s/9861uqxbv0v8my0/ANN_Picture.jpg)
+![alt tag](http://image.noelshack.com/fichiers/2014/21/1400608400-ann-picture.jpg)
