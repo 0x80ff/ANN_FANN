@@ -6,7 +6,7 @@ Artificial Neural Network for Breast Cancer Detection
 The data used for training and testing the network comes from the [Center for Machine Learning and Intelligent Systems](http://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Original))
 
 
-Link to Synthesis -> [here](https://www.dropbox.com/s/5lk8sy0kbztxnxk/reseaux-de-neurones.pdf)
+Link to Synthesis > [here](https://www.dropbox.com/s/5lk8sy0kbztxnxk/reseaux-de-neurones.pdf)
 
 ![alt tag](http://image.noelshack.com/fichiers/2014/21/1400610486-schemareseaudeneurones.png)
 Theoretical model: Network diagram
